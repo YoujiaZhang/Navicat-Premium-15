@@ -1,5 +1,9 @@
 # Navicat-Premium-15
 
+<p align="center">
+<img src="/images/navicat.jpg" >
+</p>
+
 操作系统 ：**Ubuntu 18.04.6 LTS**
 
 ## 一、相关工具
