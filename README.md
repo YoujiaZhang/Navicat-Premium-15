@@ -1,4 +1,5 @@
-# Navicat-Premium-15
+# Navicat-Premium-15 
+## 如果经济允许，还是希望可以支持正版！！！
 
 <p align="center">
 <img src="/images/navicat.jpg" >
@@ -161,3 +162,4 @@ nqKkI0BtJR5Nq***==  (示例)
 [*] Activation Code:
 ***CKrwYGzMf0OZgZCE***== (示例)
 ```
+## 如果经济允许，还是希望可以支持正版！！！
