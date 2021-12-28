@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2020-02-21 15:35
+# Email        : kaleo1990@hotmail.com
+# Filename     : update_navicat
+# Description  : 
+# ******************************************************
+mv navicat navicat.old
+wget http://download.navicat.com.cn/download/navicat15-mysql-cs.AppImage -O navicat
+chmod +x navicat
+rm navicat.old

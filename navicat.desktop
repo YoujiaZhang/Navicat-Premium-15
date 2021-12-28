@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=navicat
+Comment=navicat
+Exec=/home/kaleo/navicat/navicat
+Icon=/home/kaleo/navicat/logo.png
+Type=Application
+Terminal=false
+X-Desktop-File-Install-Version=0.22
