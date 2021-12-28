@@ -1,6 +1,8 @@
 # windows 10 安装 & 破解激活
 ## 安装 Navicat Premium 15
 
+下载安装包[请点此处](https://github.com/YoujiaZhang/Navicat-Premium-15/releases/download/1.0/navicat150_premium_cs_x64.exe)
+
 <img src="./images/install.png"  width = "500" height = "357">
 <img src="./images/install2.png"  width = "500" height = "357">
 
@@ -12,6 +14,8 @@
 
 接下来我们进行破解激活。
 ## 运行注册机 
+
+下载注册机[请点此处](https://github.com/YoujiaZhang/Navicat-Premium-15/releases/download/1.0/Navicat.Keygen.Patch.v5.6.0.DFoX.exe)
 
 - **激活时必须断网！**
 - **激活时必须断网！**
