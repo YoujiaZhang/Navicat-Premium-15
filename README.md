@@ -5,7 +5,9 @@
 <img src="/images/navicat.jpg" >
 </p>
 
-操作系统 ：**Ubuntu 18.04.6 LTS**
+**Windows10 上的安装破解请点此**
+
+以下为操作系统 ：**Ubuntu 18.04.6 LTS**  上的安装破解
 
 ## 一、相关工具
 - [navicat15-premium-cs.AppImage](https://github.com/YoujiaZhang/Navicat-Premium-15/releases/download/1.0/navicat15-premium-cs.AppImage) ：Navicat 15 premium 官方简体中文试用版
