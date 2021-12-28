@@ -11,15 +11,21 @@
 - **不要启动！！**  
 
 接下来我们进行破解激活。
-## 运行注册机
+## 运行注册机 
 
-下载成功后运行注册机，点击右上角 Patch 按钮，选择刚才 navicat 安装目录里的 exe 文件，如下图所示
+- **激活时必须断网！**
+- **激活时必须断网！**
+- **激活时必须断网！**
+
+下载成功后运行注册机，点击右上角 **Patch** 按钮，选择刚才 navicat 安装目录里的 **exe** 文件，如下图所示
 
 <img src="./images/keygen.png"  width = "544" height = "517">
 
 <img src="./images/keygen2.png"  width = "544" height = "517">
 
-选择对应的版本（Products:Premiun）和语言（Languages），输入 Your Name 和 Your Organization（可随意输入，也可使用默认的）,点击 Generate 按钮生成注册码，如下所示
+License 里选中 Enterprise、在 Produce 里选择 **Premium**、在 Languages 里选择 **Simplified Chinese (简体中文)**
+
+输入 Your Name 和 Your Organization (可随意输入，也可使用默认的),点击 Generate 按钮生成注册码，如下所示
 
 <img src="./images/keygen3.png"  width = "544" height = "517">
 
@@ -30,7 +36,7 @@
 
 <img src="./images/keygen5.png"  width = "655" height = "367">
 
-点击激活，然后选择手动激活。
+点击激活，然后选择 **手动激活**。
 
 <img src="./images/keygen6.png"  width = "655" height = "367">
 
@@ -40,13 +46,12 @@
 
 <img src="./images/keygen8.png"  width = "544" height = "517">
 
-此时手动激活页面的激活码会被自动填充，点击激活即可。
+注册机中返回 Activation code 即为成功，如下所示
 
 <img src="./images/keygen9.png"  width = "544" height = "517">
 
-注册机中返回 Activation code 即为成功，如下所示
+此时手动激活页面的激活码会被自动填充，点击激活即可。
 
 <img src="./images/keygen10.png"  width = "544" height = "517">
 
-
- 
+## 如果经济允许，还是希望可以支持正版！！！
