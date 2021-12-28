@@ -5,7 +5,7 @@
 <img src="/images/navicat.jpg" >
 </p>
 
-**Windows10 上的安装破解[请点此](/windows10/README.md)**
+**Windows10 上的安装破解[请点此](/windows10)**
 
 以下为操作系统 ：**Ubuntu 18.04.6 LTS**  上的安装破解
 
